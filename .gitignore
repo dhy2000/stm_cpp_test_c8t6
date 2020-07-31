@@ -1,3 +1,11 @@
+
+# Ignore the binary files created by CubeIDE
+Debug/**
+Binaries/**
+
+
+
+
 # Prerequisites
 *.d
 
